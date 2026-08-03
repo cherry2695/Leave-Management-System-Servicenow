@@ -51,8 +51,8 @@ erDiagram
 
 | Table | Purpose |
 |---|---|
-| **Leave Calculator** | Policy config — leave entitlement per type/country |
-| **Leave Bucket** | Live ledger — current balance per employee/leave type |
+| **Leave Calculator** | Policy config - leave entitlement per type/country |
+| **Leave Bucket** | Live ledger - current balance per employee/leave type |
 | **Leave Request** | Individual requests, with an audit snapshot of balance |
 
 ---
@@ -127,12 +127,12 @@ ServiceNow Scoped Application · Business Rules & GlideRecord · Flow Designer �
 
 | Phase | Covers |
 |---|---|
-| [1 — Requirements](./docs/Phase-1-Requirement-Analysis-and-Planning.md) | Objectives, scope, stakeholders |
-| [2 — Backend](./docs/Phase-2-Backend-Development-and-Configurations.md) | Data model, business rules |
-| [3 — UI/UX](./docs/Phase-3-UI-UX-Development-and-Customization.md) | Portal, dashboards |
-| [4 — Testing & Security](./docs/Phase-4-Data-Migration-Testing-and-Security.md) | QA, ACLs, migration |
-| [5 — Deployment](./docs/Phase-5-Deployment.md) | Release, demo |
-| [Conclusion](./docs/Project-Conclusion.md) | Outcomes, roadmap |
+| [Phase-1 Requirement Analysis and Planning](./docs/Phase-1-Requirement-Analysis-and-Planning.md) | Objectives, scope, stakeholders |
+| [Phase-2 Backend Development & Configurations](./docs/Phase-2-Backend-Development-and-Configurations.md) | Data model, business rules |
+| [Phase-3 UI-UX Development & Customization](./docs/Phase-3-UI-UX-Development-and-Customization.md) | Portal, dashboards |
+| [Phase-4 Data Migration, Testing & Security](./docs/Phase-4-Data-Migration-Testing-and-Security.md) | QA, ACLs, migration |
+| [Phase-5 Deployment](./docs/Phase-5-Deployment.md) | Release, demo |
+| [Project Conclusion](./docs/Project-Conclusion.md) | Outcomes, roadmap |
 
 ---
 
