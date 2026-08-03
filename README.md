@@ -109,17 +109,17 @@ ServiceNow Scoped Application · Business Rules & GlideRecord · Flow Designer �
  
 | Leave Request Form | User Records |
 |---|---|
-| ![Leave Request](./docs/screenshots/Leave_Request.png) | ![User Records](./docs/screenshots/User_Records.png) |
+| ![Leave Request](./Project%20Demo/Leave_Request.png) | ![User Records](./Project%20Demo/User_Records.png) |
  
-| Leave Management Table | System Structure |
+| Leave Management Table | System Studio |
 |---|---|
-| ![Table](./docs/screenshots/Leave_Management_Table_Requirements.png) | ![System Structure](./docs/screenshots/Leave_Management_System_Structure.png) |
+| ![Table](./Project%20Demo/Leave_Management_Table_Request.png) | ![System Studio](./Project%20Demo/Leave_Management_System_Studio.png) |
  
 **Application form:**
  
-![Leave Management Form](./docs/screenshots/Leave_Management_Form.png)
+![Leave Management Form](./Project%20Demo/Leave_Management_Form.png)
  
-**🎥 Demo Video:** [Watch the full walkthrough](./docs/screenshots/Demo_Video.mp4)
+**🎥 Demo Video:** [Watch the full walkthrough](./Project%20Demo/Demo%20Video.mp4)
  
 ---
 
